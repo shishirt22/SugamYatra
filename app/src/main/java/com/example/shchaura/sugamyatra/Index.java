@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class Index extends AppCompatActivity {
 
     int hot = 1;
+    int pp3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         int checkVariable = 0;
