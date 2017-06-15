@@ -10,4 +10,3 @@ public class Index extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_index);
     }
-}
