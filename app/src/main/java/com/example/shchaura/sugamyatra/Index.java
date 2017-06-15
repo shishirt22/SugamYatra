@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class Index extends AppCompatActivity {
-
+    int temp = 5;
     int hot = 1;
     int pp3;
     @Override
