@@ -7,6 +7,7 @@ public class Index extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        int checkVariable = 0;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_index);
     }
