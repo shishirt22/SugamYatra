@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="40dp" >
+
+
+
+
+    <TextView
+
+        android:id="@+id/trainno"
+
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="G717171" />
+
+
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/sourcecity"-->
+        <!--android:layout_height="20dp"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_toRightOf="@id/trainno"-->
+        <!--android:text="Mumbai" />-->
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/destcity"-->
+        <!--android:layout_height="20dp"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_toRightOf="@id/trainno"-->
+        <!--android:text="Delhi" />-->
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/sourcetime"-->
+        <!--android:layout_height="20dp"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_toRightOf="@id/sourcecity"-->
+        <!--android:text="2:30pm" />-->
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/desttime"-->
+        <!--android:layout_height="20dp"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_toRightOf="@id/destcity"-->
+        <!--android:text="6:30am" />-->
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/stopCount"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_toRightOf="@id/sourcetime"-->
+        <!--android:text="3 stops" />-->
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/destcity"-->
+
+        <!--android:layout_height="41dp"-->
+        <!--android:layout_weight="10dp"-->
+        <!--android:layout_alignTop="@+id/sourcecity"-->
+
+        <!--android:text="Delhi" />-->
+
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/select"-->
+
+        <!--android:layout_width="wrap_content"-->
+
+        <!--android:layout_height="wrap_content"-->
+
+        <!--android:layout_alignBaseline="@+id/sourcecity"-->
+
+        <!--android:layout_alignBottom="@+id/sourcecity"-->
+
+        <!--android:layout_alignParentRight="true"-->
+
+        <!--/>-->
+
+
+
+</RelativeLayout>
